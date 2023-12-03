@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "name": "java script",
+        "price": 350,
+        "numLessons": 8
+    },
+    {
+        "id": 3,
+        "name": "c#",
+        "price": 350,
+        "numLessons": 8
+    }
+]
